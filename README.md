@@ -1,0 +1,2 @@
+Blog
+Made in Django
